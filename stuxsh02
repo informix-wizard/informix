@@ -163,6 +163,7 @@ stuxsh02.st0424
 stuxsh02.st0428
 stuxsh02.st0429
 stuxsh02.st0430
+stuxsh02.st0431
 stuxsh02.st0432
 stuxsh02.st0441
 stuxsh02.st0442
@@ -258,6 +259,7 @@ stuxsh02.st0586
 stuxsh02.st0587
 stuxsh02.st0588
 stuxsh02.st0589
+stuxsh02.st0597
 stuxsh02.st0598
 stuxsh02.st0601
 stuxsh02.st0603
@@ -324,6 +326,7 @@ stuxsh02.st0702
 stuxsh02.st0703
 stuxsh02.st0704
 stuxsh02.st0707
+stuxsh02.st0711
 stuxsh02.st0720
 stuxsh02.st0721
 stuxsh02.st0722
@@ -696,6 +699,7 @@ stuxsh02.st1807
 stuxsh02.st1808
 stuxsh02.st1809
 stuxsh02.st1810
+stuxsh02.st1811
 stuxsh02.st1832
 stuxsh02.st1840
 stuxsh02.st1842
@@ -714,6 +718,7 @@ stuxsh02.st1858
 stuxsh02.st1859
 stuxsh02.st1861
 stuxsh02.st1863
+stuxsh02.st1866
 stuxsh02.st1901
 stuxsh02.st1902
 stuxsh02.st1903
@@ -794,6 +799,7 @@ stuxsh02.st2023
 stuxsh02.st2024
 stuxsh02.st2025
 stuxsh02.st2026
+stuxsh02.st2027
 stuxsh02.st2030
 stuxsh02.st2033
 stuxsh02.st2034
@@ -1472,6 +1478,7 @@ stuxsh02.st4726
 stuxsh02.st4727
 stuxsh02.st4728
 stuxsh02.st4732
+stuxsh02.st4734
 stuxsh02.st4735
 stuxsh02.st4737
 stuxsh02.st4738
@@ -1587,6 +1594,7 @@ stuxsh02.st6313
 stuxsh02.st6314
 stuxsh02.st6315
 stuxsh02.st6316
+stuxsh02.st6318
 stuxsh02.st6319
 stuxsh02.st6320
 stuxsh02.st6321
@@ -1607,6 +1615,7 @@ stuxsh02.st6336
 stuxsh02.st6339
 stuxsh02.st6340
 stuxsh02.st6341
+stuxsh02.st6342
 stuxsh02.st6343
 stuxsh02.st6346
 stuxsh02.st6348
@@ -1675,6 +1684,7 @@ stuxsh02.st6537
 stuxsh02.st6538
 stuxsh02.st6539
 stuxsh02.st6540
+stuxsh02.st6541
 stuxsh02.st6542
 stuxsh02.st6543
 stuxsh02.st6544
@@ -2164,7 +2174,6 @@ stuxsh02.st8584
 stuxsh02.st8597
 stuxsh02.st8598
 stuxsh02.st8622
-stuxsh02.st8627
 stuxsh02.st8913
 stuxsh02.st8916
 stuxsh02.st8918
